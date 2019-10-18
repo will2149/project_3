@@ -1,0 +1,114 @@
+Network Management: 
+	Manage and react dynamically to market changes with our network management suite. Control your network and services at the touch dynamically on screen.
+
+Depot Operations: 
+	Manage every aspect of your collection and delivery operation with our powerful and extensive depot operations capability.
+
+PUDO / Returns Management: 
+	React to inflight changes and make returns customer friendly by working with any number of alternative delivery/returns providers through one easy to use interface.
+
+Customer Engagement Tools: 
+	All the tools and automation your customers need to book and manage their deliveries worldwide, whatever their location or size or business. Includes booking portals, web booking and mobile apps.
+
+Customer Management: 
+	Set up new customers and rates in minutes. Manage customers’ services and expectations proactively.
+
+Billing: 
+	Easy to use rate charts and dynamic surcharging to bill and invoice your customers. Validate your supplier invoices for true control of your costs.
+
+Claims Management: 
+	Take the hassle out of managing claims. Our automated online claims service allows your customers to share the information you need and see the progress of any claim.
+
+Counter Systems: 
+	Using our counters solution, you can offer consumers an impressive range of transactions, all from a single, intuitive user interface.
+
+Postie - On road technology: 
+	Manage all of the aspects of your collection and delivery processes with Postie. Our Android app is easy to deploy, offers in-built route optimisation and turn by turn navigation. Supports a variety of hardware including rugged devices and mobile phones. Postie manages cash on delivery supported by our industry leading payment and revenue protection systems.
+
+Network Management: 
+	Manage and react dynamically to market changes with our network management suite. Control your network and services dynamically on screen.
+
+Depot Operations: 
+	Manage every aspect of your collection and delivery operation with our powerful and extensive depot operations capability.
+
+PUDO / Returns Management: 
+	React to inflight changes and make returns customer friendly by working with any number of alternative delivery/returns providers through one easy to use interface.
+
+Customer Engagement Tools: 
+	All the tools and automation your customers need to book and manage their deliveries worldwide, whatever their location or size or business. Includes booking portals, web booking and mobile apps.
+
+Customer Management: 
+	Set up new customers and rates in minutes. Manage customers’ services and expectations proactively.
+
+Billing: 
+	Easy to use rate charts and dynamic surcharging to bill and invoice your customers. Validate your supplier invoices for true control of your costs.
+
+Claims Management: 
+	Take the hassle out of managing claims. Our automated online claims service allows your customers to share the information you need and see the progress of any claim.
+
+Tracking and Notifications: 
+	Keep your customers informed about their deliveries with text and email notifications allowing them to make in-flight changes.
+
+HypaShip Deliver - Mobility Solution: 
+	Manage all of the aspects of your collection and delivery processes with Deliver. Our Android app is easy to deploy, offers in-built route optimisation and turn by turn navigation. Supports a variety of hardware including rugged devices and mobile phones. Deliver manages cash on delivery supported by our industry leading payment and revenue protection systems.
+
+Network Management: 
+	Manage and react dynamically to market changes with our network management suite. Control your network and services dynamically on screen.
+
+Depot Operations: 
+	Manage every aspect of your collection and delivery operation with our powerful and extensive depot operations capability.
+
+PUDO / Returns Management: 
+	React to inflight changes and make returns customer friendly by working with any number of alternative delivery/returns providers through one easy to use interface.
+
+Carrier Management: 
+	Oversee all aspects of your delivery service, including full carrier performance analysis. Compare prices of all services from a single dashboard or automatically allocate items to different carriers using our advanced rule-based logic.
+
+HypaShip Deliver - Mobility Solution: 
+	Manage all of the aspects of your collection and delivery processes with Deliver. Our Android app is easy to deploy, offers in-built route optimisation and turn by turn navigation. Supports a variety of hardware including rugged devices and mobile phones. Deliver manages cash on delivery supported by our industry leading payment and revenue protection systems.
+
+Customer Booking Portal: 
+	All the tools and automation your customers need to book and manage their deliveries worldwide, whatever their location, size or business.
+
+Customer Management: 
+	Set up new customers and rates in minutes. Manage customers’ services and expectations proactively.
+
+Billing: 
+	Easy to use rate charts and dynamic surcharging to bill and invoice your customers. Validate your supplier invoices for true control of your costs.
+
+Claims Management: 
+	Take the hassle out of managing claims. Our automated online claims service allows your customers to share the information you need and see the progress of any claim.
+
+Your Customer Messaging: 
+	Keep your customers informed about their deliveries with our tracking widget and automatic, configurable text and email notifications. Increase traffic to your website by allowing your customers to track their items directly on your site.
+
+Carrier Management: 
+	Oversee all aspects of your delivery service, including full carrier performance analysis. Compare prices of all services from a single dashboard or automatically allocate items to different carriers using our advanced rule-based logic.
+
+Your World: 
+	A system that allows you to operate in any country, in any language, time zone and currency. But if you only want to ship from the UK it will still calculate the duty in real time.
+
+PUDO / Returns Management: 
+	React to inflight changes and make returns customer friendly by working with any number of alternative delivery/returns providers through one easy to use interface.
+
+Returns Management: 
+	Many customers will abandon retailers because of a difficult or expensive returns process. With our returns management solution you can quickly and easily manage returns directly through your site.
+
+Delivery Innovation: 
+	Stay at the forefront of today’s delivery choices. Our solution offers you the flexibility to implement new ideas and services quickly and efficiently.
+
+Your Customer Messaging: 
+	Keep your customers informed about their deliveries with our tracking widget and automatic, configurable text and email notifications. Increase traffic to your website by allowing your customers to track their items directly on your site.
+
+VIPs: 
+	Sometimes you need to go the extra mile. A special customer, a special product, service recovery or just looking to surprise and delight!
+
+Multi-Channel: 
+	Our solution allows you to automatically import in orders in real time from Amazon, eBay, Shopify, BigCommerce and many more.
+
+Reporting: 
+	Keep your customer services and operational teams informed about any deliveries that have the potential to fail. Early identification means a better chance of service recovery.
+
+Carrier Invoice Validation: 
+	Manage all your carrier’s invoices on one dashboard. Our automatic auditing solution validates every consignment on every invoice, informing you of any discrepancies and raising a credit note request.
+
